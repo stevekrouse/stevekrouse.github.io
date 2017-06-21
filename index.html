@@ -3,18 +3,35 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-   
   <title>Steve Krouse</title>
   <style>
     #page {
       padding: 50px;
       margin-right: auto;
       margin-left: auto;
-      width: 55em;
+      width: 100%;
+    }
+    .date {
+      display: none;
+    }
+    
+    li {
+      padding-bottom: 10px;
     }
 
+    @media (min-width: 768px) { 
+      #page {
+        width: 55em;
+      }
+      .date {
+        display: inline;
+      }
+      li {
+        padding: 2px;
+      }
+    }
+    
     #title {
       margin-bottom: 30px;
       color: #d86502;
@@ -30,15 +47,10 @@
       color: #666;
       font-size: 90%;
     }
-    
-    li {
-      padding: 2px;
-    }
   </style>
 </head>
-<!-- TODO MAKE ALL LINKS TARGET BLANK-->
 <body>
-  <div id="page">
+  <div id="page" class="container-fluid">
     
     <div id="title">
       <h3>Steve Krouse</h3>
