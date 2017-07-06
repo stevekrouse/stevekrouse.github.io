@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) { 
+  body {
+    width: 55em;
+  }
+}
+
+h1 {
+  margin-bottom: 30px
+}
+
+#date {
+  color: gray;
+  margin-bottom: 15px;
+}
+
