@@ -49,6 +49,8 @@ Getting more knowledge about how different foods affect my mood and energy, like
 
 ### Blog regularly for a period of time
 
+I think a good way to go about this is to set aside a period of time each week for blogging (which can include releasing them) in which I can write on any number of pieces. Basically, don't set a target for the number of released pieces but just the amount of time on the calendar each week. Given that I already write a ton already in various journals, this can mostly be aggregating, clarifying and publishing time.
+
 ### Marketing for developers (justin jackson)
 
 
