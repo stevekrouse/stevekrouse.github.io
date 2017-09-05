@@ -12,6 +12,8 @@ As a computer scientist, I found the way that Ericsson and Pool explained delibe
 
 ## Current 
 
+### Alexander Technique
+
 ### Motivational Interviewing
 
 #### Reflective Listening
@@ -46,6 +48,8 @@ Getting more knowledge about how different foods affect my mood and energy, like
 ### Tweet regularly for a period of time
 
 ### Blog regularly for a period of time
+
+### Marketing for developers (justin jackson)
 
 
 ## Accomplished
