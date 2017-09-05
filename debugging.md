@@ -28,6 +28,10 @@ http://futureofcoding.org/journal#reflections-on-my-schedule-9317
 
 ## Soon
 
+### Schedule optimization
+
+I've been doing a decent job thinking about this on my futureofcoding.org/journal but I think I can be even more specific on how I want to spend my hours. I want to be much more precise about where I spend my time than I have been. Less ballparking it and more specific numbers. Even to the minute if I can.
+
 ### Be able to non-awkwardly and non-threateningly approach strangers
 
 ### Optimizing the food I eat
