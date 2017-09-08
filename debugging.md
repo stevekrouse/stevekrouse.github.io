@@ -18,11 +18,11 @@ As a computer scientist, I found the way that Ericsson and Pool explained delibe
 
 #### Reflective Listening
 
-TODO
-
 ### Waking up at 7am and going to bed a 11pm during the week
 
 http://futureofcoding.org/journal#reflections-on-my-schedule-9317
+
+### Ping Pong
 
 ### Debugging Myself (this page)
 
@@ -30,7 +30,7 @@ http://futureofcoding.org/journal#reflections-on-my-schedule-9317
 
 ### Schedule optimization
 
-I've been doing a decent job thinking about this on my futureofcoding.org/journal but I think I can be even more specific on how I want to spend my hours. I want to be much more precise about where I spend my time than I have been. Less ballparking it and more specific numbers. Even to the minute if I can.
+I've been doing a decent job thinking about this on my futureofcoding.org/journal but I think I can be even more specific on how I want to spend my hours. I want to be much more precise about where I spend my time than I have been. Less ballparking it and more specific numbers. Even to the minute if I can. 
 
 ### Be able to non-awkwardly and non-threateningly approach strangers
 
@@ -57,6 +57,9 @@ I think a good way to go about this is to set aside a period of time each week f
 
 ### Marketing for developers (justin jackson)
 
+### Fashion
+
+I don't need to be an expert but I'd like more confidence in my style than I have now. I'd also like to know a bit about haircutting works, ideally so I can do little things at home on my own, but it that's impracticle, at least be able to reason about when I need to cut it, and why, and others styles of haircut that might look good on me.
 
 ## Accomplished
 
