@@ -32,6 +32,15 @@ http://futureofcoding.org/journal#reflections-on-my-schedule-9317
 
 Getting more knowledge about how different foods affect my mood and energy, like Scott Adams discusses in How to Fail.
 
+### Think about which other parts of my personal journal can be open
+
+Could be similar to Mattan's friend update
+
+### Practice bouncing bad from negative emotions
+
+They will happen. Councing back is the thing. And also avoiding places where you often find it. And preparing for those places when you can't avoid it. Pain is a large location of negative emotions. You can also optimize yourlsef chemically via caffeine, nootropics or psychiatric medicine.
+
+
 ### Non-violent communication
 
 
@@ -47,6 +56,7 @@ Getting more knowledge about how different foods affect my mood and energy, like
 
 ### Blog regularly for a period of time
 
+### Publish the notes I take on the books I read
 
 ## Accomplished
 
