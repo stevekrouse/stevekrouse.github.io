@@ -43,6 +43,8 @@ Getting more knowledge about how different foods affect my mood and energy, like
 
 ## Eventually
 
+### Work on various biases (in the Thinking Fast and Slow sense)
+
 ### Singing well enough to not be embarressed in public
 
 ### Dancing well enough to not be embarressed in public
