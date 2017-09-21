@@ -19,6 +19,10 @@ LogicHub is a tool and platform that will try to help humanity as a whole become
 
 running a foster home with ~20 kids with “average genes” and raising them right, where it’s easy to get 1600 on their SATs, including getting Anders Ericsson and Charles Murray to sign off on the “experimental design” and thinking through a plan and budget (~$1M per year?),  and teaching the kids Socratic teaching so they can make sure not to block the learning of those behind them like I did with tech and my family, and also teaching the kids non-violent communication, Landmark, motivational interviewing, etc, and same with the teachers of course, outlaw commenting on the looks of kids, especially by adults, discourage (but don’t disallow) the consuming of media with negative messages (at least until a kid is old enough to have a critical discussion about it), what about sexuality?, and where to get the kids legally? 
 
+### [TEDD](https://medium.com/@stevekrouse/tedd-b86504a62144
+
+TODO look into https://medium.com/organizer-sandbox/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f
+
 ### Starting a Libertarian Country
 
 ### Better website CMS platform than github pages
