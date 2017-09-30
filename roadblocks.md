@@ -14,6 +14,14 @@ Another roadblock is my back pain, which makes it hard to sit for a while, which
 
 ### Ability to travel without pain
 
+### Pain 
+
+all chronic pain is roadblock on happiness and motivations and outlook. and those things, chemicals in brain, are roadblocks too
+
+### Low-bandwith communication
+
+Nexus really illustrates how low it really is
+
 ### Difficulty in learning to code (and coding)
 
 ### Inability to think logically, in a massively collaborative way
