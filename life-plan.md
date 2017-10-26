@@ -66,10 +66,10 @@ I say all this to explain how gut-wrenchingly hard it can be to rank your priori
 4. My physical health
 5. My relationship with my significant other
 6. My relationships with my mom, dad, and brothers
-7. My relationships with my closest friends (including Eli K, Zach W, Zach V, Matt M, Potluck, Jonathan L, Eric L)
+7. My relationships with my ~5 closest friends
 8. My work
 9. My relationships with my extended family
-10. My relationships with my 20 closest friends (not prioritized or exhuastive: Nicole K, Sam S, Docks, Harrison L, Steven P, Matt G, Sam A, Maddy M, Edward L, Brett B, Sasha, AJ S, Nicole G, Sydney S, Kyle G, Dan S, Blake B)
+10. My relationships with my ~20 closest friends
 
 An important thing to note here is that these priorities assume "equal quantities of import" of each of the above. For example, if I'm a little bit sad but my significant other is really sad, I will of course address her mental health issues before my own.
 
