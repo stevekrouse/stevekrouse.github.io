@@ -8,7 +8,7 @@ title: Life Plan
 
 ## Planning Series
 
-This _Life Plan_ is the first of my three-part _Planning Series_, which also includes my _World Plan_ and _Future of Coding Plan_ which you can expect in the coming weeks.
+This _Life Plan_ is the first of my three-part _Planning Series_, which also includes my [_World Plan_](./world-plan) and _Future of Coding Plan_ which you can expect in the coming weeks.
 
 ## TL;DR
 
@@ -56,7 +56,7 @@ As I am learning from from _Essentialism_ and Ray Dalio's _Principles_, I can ha
 
 For example, my mom would tell me growing up that it was key that a married couple prioritize their marital relationship over their relationships with their children. This seemed like a blasphemous thing for her to say at the time, but she justified it well: when a parent prioritizes their children over their own relationship, that relationship will fall apart which will then hurt the children. Instead, you need to ensure the foundation is well set at the parental level - then you address the child's needs. In other words: "put on your mask before assisting others."
 
-We can find examples of this in startups as well. My cofounder Eli was very proud that his former company Remind.com made it clear that their customer are teachers. Not students and not parents. It was hard for me to make this same distinction in our business: I wanted to have it all and optimize for both parents and students. However at the end of the day, as an after school program our customers are our parents, and being honest and clear about that makes everything easier. Of course this doesn't mean to give lip service towards students -- on the contrary one of the main ways to make our parents happy is for their children to enjoy our class. What it means is that we should prioritize our actions according to how parents see them -- not how students do.
+We can find examples of this in startups as well. My cofounder Eli was very proud that his former company Remind.com made it clear that their customers are teachers. Not students and not parents. It was hard for me to make this same distinction in our business: I wanted to have it all and optimize for both parents and students. However at the end of the day, as an after school program our customers are our parents, and being honest and clear about that makes everything easier. Of course this doesn't mean to give lip service towards students -- on the contrary one of the main ways to make our parents happy is for their children to enjoy our class. What it means is that we should prioritize our actions according to how parents see them -- not how students do.
 
 I say all this to explain how gut-wrenchingly hard it can be to rank your priorities in this way. At the same time, it is so key to success. Here's my first stab at my priorities/values:
 
@@ -131,7 +131,7 @@ After 11 months at Looker, I all of the sudden realized that I had learned most 
 
 2. A commonly given principle is "don't leave a job until you have the next job lined up" and for good reason. Being in between jobs is really scary and opens you up for all sorts of deep philosophical holes to fall into. On the flip side, falling into deep philosophical holes is sometimes exactly what you need to establish your foundations, and powerfully choose the next step in one's' career, as happened for me. As a happy medium between these extremes: it's probably a good idea to have a more than a vague sense of what you're going to do next. It would probably help to have a rough, yet specific outline, such as traveling to these three countries or doing that self-help program.
 
-3. I was battling with a lifetime of high expectations, and was scared shitless. Ever since I was young, I had been compared first to Bill Gates and then to Mark Zuckerberg. In high school I decided to introduce meself as Steve instead of Stevie like I used to to encourage more comparisons with my then-idol Steve Jobs. For one, I was the computer kid. For another, as a nerdy, awkward, Jewish boy with glasses, it's hard _not_ to make the comparison. And it starts even younger than this: I once taught a computer science class to 7-year-olds and one of the students of color pointed at me and then at a picture of Mark Zuckerberg who was on the homepage of code.org and shouted, "It's you!" (Of course this brings up the very important question of role models, where I would be today if my superficial appearance were different, and how to communicate to _all_ children that they can do anything they set their minds to, regardless of what the stereotype of the people who do that job now look like superficially.)
+3. I was battling with a lifetime of high expectations, and was scared shitless. Ever since I was young, I had been compared first to Bill Gates and then to Mark Zuckerberg. In high school I decided to introduce myself as Steve instead of Stevie like I used to to encourage more comparisons with my then-idol Steve Jobs. For one, I was the computer kid. For another, as a nerdy, awkward, Jewish boy with glasses, it's hard _not_ to make the comparison. And it starts even younger than this: I once taught a computer science class to 7-year-olds and one of the students of color pointed at me and then at a picture of Mark Zuckerberg who was on the homepage of code.org and shouted, "It's you!" (Of course this brings up the very important question of role models, where I would be today if my superficial appearance were different, and how to communicate to _all_  children that they can do anything they set their minds to, regardless of what the stereotype of the people who do that job now look like superficially.)
 
 This is all to say that I was stuck. I was thinking about traveling -- because that's what lost kids, like the young Steve Jobs, do to find themselves -- or maybe living on a farm -- because I had all sorts of guilt about my privilege and wanted to pretend that it didn't exist by running away from it.
 
@@ -153,7 +153,7 @@ I think the new foundation is twofold:
 
 1. Helping people is meaningful. Even if they will die. Even if the human race ends. Helping people is meaningful because people construct meaning, and helping a meaning constructor is meaningful, almost by definition.
 
-2. Saving the world is fun. Elon Musk is literally -- no joke, you can look this up -- the real-life inspiration for Robert Downey Jr's Tony Stark, Iron Man, and leader of the Avengers. If you could wake up every morning and put on a figurative superhero custom, down to the figurative cape, why wouldn't you? As my wise friend Docks says, "Until you wake up every morning pissing blood, ready to kick down doors, you're not doing it right. The world needs you."
+2. Saving the world is fun. Elon Musk is literally -- no joke, you can look this up -- the real-life inspiration for Robert Downey Jr's Tony Stark, Iron Man, and leader of the Avengers. If you could wake up every morning and put on a figurative superhero costume, down to the figurative cape, why wouldn't you? As my wise friend Docks says, "Until you wake up every morning pissing blood, ready to kick down doors, you're not doing it right. The world needs you."
 
 ## The most good you can do
 
@@ -173,7 +173,7 @@ This is meaningful to me for a few reasons:
 
 3. I feel so grateful to the people who have enabled me to think critically: my mom and dad for kindling my passion for reading, my dad for pushing me to ask quantitative, reasoned, and sequential questions, Ken and IMACS for teaching me to teach myself arbitrary concepts through reading technical writing, Seymour Papert for designing LOGO which planted the seed of my self-efficacy as it pertains to learning, Paul Graham for showing me how the written word can be used to think through issues to articulate one's own thoughts...
 
-I want to fully acknowledge here that this is not "the answer" to the question "what is the most good you can do?" It is simply the answer to the question, "what is the most good that I, Steve Krouse, can do?" Moreover, I plan to supplement these efforts with supplementary charity of 5% of my income through effective altruism organizations, because humility never hurt nobody none.
+I want to fully acknowledge here that this is not "the answer" to the question "what is the most good you can do?" It is simply the answer to the question, "what is the most good that I, Steve Krouse, can do?" Moreover, I plan to complement these efforts with charity of 5% of my income through effective altruism organizations, because humility never hurt nobody none.
 
 ## Your one wild and precious life
 
