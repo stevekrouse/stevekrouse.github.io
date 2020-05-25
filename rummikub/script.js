@@ -6,7 +6,7 @@ class Rummikub extends Croquet.Model {
     }
   
   newGame() {
-    this.tiles = ['red', 'blue', 'green', 'orange'].map(color => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].map(number => ({
+    this.tiles = ['red', 'blue', 'green', 'orange','red', 'blue', 'green', 'orange'].map(color => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].map(number => ({
           color,
           number,
           tileState: 'UNPICKED',
