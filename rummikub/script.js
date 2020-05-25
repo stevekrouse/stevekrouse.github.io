@@ -12,21 +12,24 @@ class Rummikub extends Croquet.Model {
           tileState: 'UNPICKED',
           x: Math.random() * .2,
           y: Math.random() * .2,
-          moving: "NOT MOVING"
+          moving: "NOT MOVING",
+        id: Math.random()
       }))).reduce((a, b) => a.concat(b), [{
           color: 'green',
           number: ':)',
           tileState: 'UNPICKED',
           x: Math.random() * .2,
           y: Math.random() * .2,
-          moving: "NOT MOVING"
+          moving: "NOT MOVING",
+        id: Math.random()
       }, {
           color: 'red',
           number: ':)',
           tileState: 'UNPICKED',
           x: Math.random() * .2,
           y: Math.random() * .2,
-          moving: "NOT MOVING"
+          moving: "NOT MOVING",
+          id: Math.random()
       }])      
   }
   unpickedTiles() {
@@ -37,8 +40,8 @@ class Rummikub extends Croquet.Model {
     this.users.push(user)
   }
   
-  updateTile({number, color, tileState, x, y, moving}) {
-    let tile = this.tiles.find(tile => tile.number === number && tile.color === color)
+  updateTile({number, color, tileState, x, y, moving, id}) {
+    let tile = this.tiles.find(tile => tile.id === id)
     if (tileState) tile.tileState = tileState
     if (x) tile.x = x
     if (y) tile.y = y
@@ -82,15 +85,15 @@ class MyView extends Croquet.View {
       this.model.tiles.forEach(({color, number, tileState}) => {
         if (tileState === oldName) {
           this.publish("default", "updateTile", {
-            color, number, 
+            id
             tileState: this.name
           })
         }
       })
     }
   
-    getTile({color, number}) {
-      return this.model.tiles.find(tile => tile.number === number && tile.color === color)
+    getTile({id}) {
+      return this.model.tiles.find(tile => tile.id === id)
     }
   
     update() {
@@ -102,7 +105,7 @@ class MyView extends Croquet.View {
           })
           scoreboard.innerHTML = JSON.stringify(score).replace("{", "").replace("}", "").replace(/"/g, "").replace(/,/g, '<br>').replace(this.name, `<b>${this.name}</b>`).replace(/:/g, ": ")
       
-          this.model.tiles.forEach(({color, number, x, y, tileState}) => {
+          this.model.tiles.forEach(({color, number, x, y, tileState, id}) => {
             let id = color + number 
             if (!(tileState === "UNPICKED" || tileState === "PLAYED" || tileState === this.name)) {
               let elem = document.getElementById(id)
@@ -125,7 +128,7 @@ class MyView extends Croquet.View {
                 })
               }, 1000)
               elem.ontouchmove = e => { 
-                let {tileState, moving} = this.getTile({color, number})
+                let {tileState, moving} = this.getTile({id})
                 
                 if (!(moving === "NOT MOVING" || moving === this.name)) {
                   return
@@ -149,7 +152,7 @@ class MyView extends Croquet.View {
                 }
                 
                 this.publish("default", "updateTile", {
-                  color, number, 
+                  id
                   x: clientX / window.innerWidth, 
                   y:  clientY / window.innerHeight,
                   tileState: newTileState,
