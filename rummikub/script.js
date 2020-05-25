@@ -85,7 +85,7 @@ class MyView extends Croquet.View {
       this.model.tiles.forEach(({color, number, tileState}) => {
         if (tileState === oldName) {
           this.publish("default", "updateTile", {
-            id
+            id,
             tileState: this.name
           })
         }
@@ -152,7 +152,7 @@ class MyView extends Croquet.View {
                 }
                 
                 this.publish("default", "updateTile", {
-                  id
+                  id,
                   x: clientX / window.innerWidth, 
                   y:  clientY / window.innerHeight,
                   tileState: newTileState,
