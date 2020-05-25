@@ -106,7 +106,6 @@ class MyView extends Croquet.View {
           scoreboard.innerHTML = JSON.stringify(score).replace("{", "").replace("}", "").replace(/"/g, "").replace(/,/g, '<br>').replace(this.name, `<b>${this.name}</b>`).replace(/:/g, ": ")
       
           this.model.tiles.forEach(({color, number, x, y, tileState, id}) => {
-            let id = color + number 
             if (!(tileState === "UNPICKED" || tileState === "PLAYED" || tileState === this.name)) {
               let elem = document.getElementById(id)
               if (elem) elem.remove()
