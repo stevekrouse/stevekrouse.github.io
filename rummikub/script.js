@@ -122,7 +122,7 @@ class MyView extends Croquet.View {
                 elem.moving = false
                 elem.style["z-index"] = 1
                 this.publish("default", "updateTile", {
-                  color, number, 
+                  id, 
                   moving: "NOT MOVING"
                 })
               }, 1000)
