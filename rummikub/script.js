@@ -69,6 +69,7 @@ class MyView extends Croquet.View {
       
       if (new URLSearchParams(window.location.search).get('newgame')) {
         this.publish("default", "newGame")
+        setTimeout(() => window.location.search = "", 1000)
       }
       scoreboard.addEventListener("touchstart", this.getName.bind(this))
     }
